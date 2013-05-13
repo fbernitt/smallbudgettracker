@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TheCodEx/smallbudgettracker.png)](https://travis-ci.org/TheCodEx/smallbudgettracker)
+
 # smallbudgettracker
 
 FIXME: description
