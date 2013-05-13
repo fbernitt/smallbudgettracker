@@ -1,0 +1,8 @@
+
+(use 'smallbudgettracker.category)
+
+(defn budgets []
+  (do
+    (println "Hello from budgets method")
+    (list
+      (make-category :foo "bar"))))
