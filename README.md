@@ -2,6 +2,8 @@
 
 # smallbudgettracker
 
+Currently not more than a small project to learn clojure! Should grow to a small, personal budget management tool. 
+
 FIXME: description
 
 ## Installation
